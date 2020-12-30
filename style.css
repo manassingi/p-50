@@ -1,0 +1,120 @@
+
+h1 
+{
+    color:rgb(253, 11, 104)
+}
+
+
+
+
+
+
+
+
+al
+{
+
+    color:rgb(253, 156, 11)
+}
+pl
+{
+
+    color:rgb(253, 11, 92)
+}
+wl
+{
+
+    color:rgb(58, 39, 10)
+}
+ml
+{
+
+    color:rgb(148, 143, 71)
+}
+zl
+{
+
+    color:rgba(231, 114, 231, 0.726)
+}
+a
+{
+    color:rgb(253, 11, 11)
+}
+.grid img
+{
+    
+    
+      
+    border: 2px solid black;
+    border-radius: 50px;
+ 
+ 
+      
+}
+.origami
+{
+   
+   
+   
+   
+    border-radius: 20px;
+    background-color: wheat;
+    width: 310px ;
+    font-family: fantasy;
+}
+
+.header
+{
+
+    display: flex;
+    flex-flow: column wrap;
+
+
+}
+.menu
+{
+    display: flex;
+   justify-content: space-between;
+    background-color: black;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 10;
+    color: white;
+}
+body
+{
+    background-color:whitesmoke;
+}
+.grid
+{
+    display: flex;
+    flex-wrap: wrap;
+    font-family:sans-serif; 
+}
+.bodyimg p{
+
+
+
+    color:#f7f2f2;
+        font-size: 55px;
+        font-family: fantasy;
+        position: absolute;
+        top:10%;
+        left:50%;
+        transform: translate(-50%,-50%);
+    
+    }
+    .bodyimg{
+        position: relative;
+    }
+    
+    .bodyimg h3{
+        color:#f7f2f2;
+        font-family: fantasy;
+        font-size: 30px;
+        width: 1600px;
+        position: absolute;
+        top:40%;
+        left:45%;
+        transform: translate(-40%, -40%);
+    }
